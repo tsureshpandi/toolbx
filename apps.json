@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "name": "toolbx",
+  "updated": "2026-11-25T14:05:58.334Z",
+  "apps": [
+    {
+      "id": "com.varsid.exptracker",
+      "name": "ExpTracker",
+      "version": "0.1.0",
+      "description": "Personal expense tracker and budget planner",
+      "color": "#0f766e",
+      "icon": "icons/com.varsid.exptracker.png",
+      "zip": "com.varsid.exptracker.zip",
+      "sha256": "808d53c335150305e0ae54ed0f8d9ffccaee87498c99a0bf61f58b8b5b686680",
+      "size": 295424
+    },
+    {
+      "id": "com.varsid.fincalc",
+      "name": "FinCalc",
+      "version": "1.0.0",
+      "description": "FD, RD and loan EMI calculator with prepayment planning",
+      "color": "#2f6fed",
+      "icon": "icons/com.varsid.fincalc.png",
+      "zip": "com.varsid.fincalc.zip",
+      "sha256": "4ced1b815a57aa081549841c15ceeaf9f6ac11818d232cd0d590c2874aa5f909",
+      "size": 38718
+    },
+    {
+      "id": "com.varsid.worksheet",
+      "name": "Worksheets",
+      "version": "1.0.0",
+      "description": "Random printable maths worksheets for Grade 1 (English / Tamil)",
+      "color": "#4f46e5",
+      "icon": "icons/com.varsid.worksheet.png",
+      "zip": "com.varsid.worksheet.zip",
+      "sha256": "1f7b0d2d9900e59aa3f8b411e3ffa61441ac6250b6b6794333f351c5c11e4db8",
+      "size": 229482
+    }
+  ]
+}

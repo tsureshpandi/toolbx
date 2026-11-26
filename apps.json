@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "name": "toolbx",
-  "updated": "2026-11-25T14:05:58.334Z",
+  "updated": "2026-11-26T05:30:49.744Z",
   "apps": [
     {
       "id": "com.varsid.exptracker",
       "name": "ExpTracker",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Personal expense tracker and budget planner",
       "color": "#0f766e",
       "icon": "icons/com.varsid.exptracker.png",
       "zip": "com.varsid.exptracker.zip",
-      "sha256": "808d53c335150305e0ae54ed0f8d9ffccaee87498c99a0bf61f58b8b5b686680",
+      "sha256": "03c3492a6822f228f1947e32dc8623e2aedad825091cff419e25d230450ae7c6",
       "size": 295424
     },
     {
@@ -22,8 +22,19 @@
       "color": "#2f6fed",
       "icon": "icons/com.varsid.fincalc.png",
       "zip": "com.varsid.fincalc.zip",
-      "sha256": "4ced1b815a57aa081549841c15ceeaf9f6ac11818d232cd0d590c2874aa5f909",
+      "sha256": "2f113abccc326cd58f3c83d1dc5e3219c3e90d575c86d86295bcae2a7cc7d8b7",
       "size": 38718
+    },
+    {
+      "id": "com.varsid.serialport",
+      "name": "Serial Port",
+      "version": "1.1.0",
+      "description": "USB serial terminal, custom control buttons/toggles/sliders and joystick for Arduino / ESP32",
+      "color": "#0e7490",
+      "icon": "icons/com.varsid.serialport.png",
+      "zip": "com.varsid.serialport.zip",
+      "sha256": "5a0504e19f166626b738a6dbd9dd2d3246d03f6b3efe5e6568860d74db118bd8",
+      "size": 102190
     },
     {
       "id": "com.varsid.worksheet",
@@ -33,8 +44,8 @@
       "color": "#4f46e5",
       "icon": "icons/com.varsid.worksheet.png",
       "zip": "com.varsid.worksheet.zip",
-      "sha256": "1f7b0d2d9900e59aa3f8b411e3ffa61441ac6250b6b6794333f351c5c11e4db8",
-      "size": 229482
+      "sha256": "9a36c52f31f9a0c7cb4fc5a35f6380705d1fe5e03ae34a14067adf7ba1f0986d",
+      "size": 107526
     }
   ]
 }

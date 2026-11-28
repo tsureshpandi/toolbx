@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "name": "toolbx",
-  "updated": "2026-11-26T05:30:49.744Z",
+  "updated": "2026-11-28T11:43:24.962Z",
   "apps": [
     {
       "id": "com.varsid.exptracker",
       "name": "ExpTracker",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "Personal expense tracker and budget planner",
       "color": "#0f766e",
       "icon": "icons/com.varsid.exptracker.png",
       "zip": "com.varsid.exptracker.zip",
-      "sha256": "03c3492a6822f228f1947e32dc8623e2aedad825091cff419e25d230450ae7c6",
-      "size": 295424
+      "sha256": "c714585734dc64026dc341854a789b2ef076c58668fb207a3548010a7b367ef5",
+      "size": 306209
     },
     {
       "id": "com.varsid.fincalc",
